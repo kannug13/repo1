@@ -1,0 +1,13 @@
+[user]
+	name = kannug13
+	email = kannug13@gmailcom
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = current
